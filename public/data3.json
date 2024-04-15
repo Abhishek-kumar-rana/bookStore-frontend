@@ -1,0 +1,92 @@
+[
+    { 
+      "id": "001",
+      "author": "Chinua Achebe",
+      "language": "English",
+      "imageLink": "https://images.unsplash.com/photo-1587580841655-15fc77efc911",
+      "title": "Things Fall Apart",
+      "price": "$10.99",
+      "categories": "Fiction, Classic, African"
+    },
+    {
+      "id": "002",
+      "author": "Hans Christian Andersen",
+      "language": "Danish",
+      "imageLink": "https://images.unsplash.com/photo-1609713988822-78cb28598f22",
+      "title": "Fairy tales",
+      "price": "$9.99",
+      "categories": "Children, Fairy"
+    },
+    {
+      "id": "003",
+      "author": "Dante Alighieri",
+      "language": "Italian",
+      "imageLink": "https://images.unsplash.com/photo-1581480584047-5f2bc666fc46",
+      "title": "The Divine Comedy",
+      "price": "$12.50",
+      "categories": "Epic, Poetry, Italian"
+    },
+    {
+      "id": "004",
+      "author": "Unknown",
+      "language": "Akkadian",
+      "imageLink": "https://images.unsplash.com/photo-1592129245210-295b3019a99f",
+      "title": "The Epic Of Gilgamesh",
+      "price": "$8.99",
+      "categories": "Epic, Ancient"
+    },
+    {
+      "id": "005",
+      "author": "Unknown",
+      "language": "Hebrew",
+      "imageLink": "https://images.unsplash.com/photo-1513098380515-52c606e2cb2b",
+      "title": "The Book Of Job",
+      "price": "$11.25",
+      "categories": "Religious, Philosophy, Poetry"
+    },
+    {
+      "id": "006",
+      "author": "Unknown",
+      "language": "Arabic",
+      "imageLink": "https://images.unsplash.com/photo-1512894856-5aeb47ba2aef",
+      "title": "One Thousand and One Nights",
+      "price": "$14.99",
+      "categories": "Folklore, Arabian"
+    },
+    {
+      "id": "007",
+      "author": "Unknown",
+      "language": "Old Norse",
+      "imageLink": "https://images.unsplash.com/photo-1603328542593-fca653f39109",
+      "title": "Nj\u00e1l's Saga",
+      "price": "$10.50",
+      "categories": "Saga, Nordic"
+    },
+    {
+      "id": "008",
+      "author": "Jane Austen",
+      "language": "English",
+      "imageLink": "https://images.unsplash.com/photo-1576308989055-c8423b316c84",
+      "title": "Pride and Prejudice",
+      "price": "$13.75",
+      "categories": "Classic, Romance, British"
+    },
+    {
+      "id": "009",
+      "author": "Honor\u00e9 de Balzac",
+      "language": "French",
+      "imageLink": "https://images.unsplash.com/photo-1502920917128-58a72fb2ffea",
+      "title": "Le P\u00e8re Goriot",
+      "price": "$11.99",
+      "categories": "Realism, French"
+    },
+    {
+      "id": "010",
+      "author": "Samuel Beckett",
+      "language": "French, English",
+      "imageLink": "https://images.unsplash.com/photo-1531834700079-0eeb735db91e",
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "price": "$15.50",
+      "categories": "Absurdist, Modernist"
+    }
+]

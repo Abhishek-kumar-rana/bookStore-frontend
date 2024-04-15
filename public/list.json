@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Computer Design",
+        "title": "Crazy learning",
+        "price": 30,
+        "category": "Btech",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 2,
+        "name": "React.js",
+        "title": "Skills",
+        "price": 10,
+        "category": "Skills",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 3,
+        "name": "Web development",
+        "title": "Web development",
+        "price": 20,
+        "category": "Skills",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 4,
+        "name": "Express.js",
+        "title": "Web Backend",
+        "price": 6,
+        "category": "Skills",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 5,
+        "name": "Data Science",
+        "title": "Data Science Fundamentals",
+        "price": 25,
+        "category": "Skills",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 6,
+        "name": "Python Programming",
+        "title": "Python Basics to Advanced",
+        "price": 15,
+        "category": "Skills",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 7,
+        "name": "Machine Learning",
+        "title": "Introduction to Machine Learning",
+        "price": 35,
+        "category": "Skills",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 8,
+        "name": "Java Programming",
+        "title": "Java for Beginners",
+        "price": 20,
+        "category": "Skills",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 9,
+        "name": "Introduction to HTML",
+        "title": "HTML Basics",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 10,
+        "name": "Introduction to CSS",
+        "title": "CSS Fundamentals",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 11,
+        "name": "Introduction to JavaScript",
+        "title": "JavaScript Basics",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    },
+    {
+        "id": 12,
+        "name": "Introduction to Python",
+        "title": "Python Fundamentals",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/abstract-business-cover-template-with-photo_23-2147840598.jpg?w=740"
+    }
+]
