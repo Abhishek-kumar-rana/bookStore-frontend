@@ -26,6 +26,8 @@ function App() {
       <Route path='/signup' element={<Signup/>}/>
       <Route path='/contact' element={<Contact/>}/>
       <Route path='/about' element={<Aboutus/>}/>
+       <Route path='/about/signup' element={<Signup/>}/>
+      <Route path='/contact/signup' element={<Signup/>}/>
     </Routes>
     <Toaster />  
    </div>
