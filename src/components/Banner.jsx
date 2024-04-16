@@ -22,7 +22,10 @@ function Banner() {
   <input type="text" className="grow text-gray-400 dark:bg-slate-900" placeholder="Email" />
 </label>
             </div>
-            <button className="btn mt-6 mb-10  btn-secondary">Secondary</button>
+            
+          <a href="mailto:lalanrana01000@gmail.com" target="_blank" rel="noopener noreferrer">
+        <button className="btn mt-6 mb-10  btn-secondary">Reach</button>
+          </a>
         </div>
         <div className='order-1 w-full md:w-1/2  md:mt-8 md:ml-32'>
             <img src={Untitled} className=' w-92 h-92' alt="" />
