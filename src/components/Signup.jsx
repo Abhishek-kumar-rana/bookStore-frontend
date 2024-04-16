@@ -72,7 +72,7 @@ function Signup() {
                             <input
                                 type="text"
                                 placeholder='Enter your Name'
-                                className='w-80 px-3 py-1 border rounded-md outline-none'
+                                className='w-72 md:w-80 px-3 py-1 border rounded-md outline-none'
                                 {...register("fullname", { required: true })}
 
                             /> <br />
@@ -86,7 +86,7 @@ function Signup() {
                             <input
                                 type="email"
                                 placeholder='Enter your email'
-                                className='w-80 px-3 py-1 border rounded-md outline-none'
+                                className='w-72 md:w-80 px-3 py-1 border rounded-md outline-none'
                                 {...register("email", { required: true })}
 
                             /> <br />
@@ -99,7 +99,7 @@ function Signup() {
                             <input
                                 type="password"
                                 placeholder='Enter your password'
-                                className='w-80 px-3 py-1 border rounded-md outline-none'
+                                className='w-72 md:w-80 px-3 py-1 border rounded-md outline-none'
                                 {...register("password", { required: true })}
 
                             /> <br />
